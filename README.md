@@ -33,7 +33,5 @@ I am currently studying Computer and Systems Engineering.
 
 <h3 align="left">Some stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andresmaldonado200338&show_icons=true&locale=en&layout=compact" alt="andresmaldonado200338" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andresmaldonado200338&show_icons=true&locale=en" alt="andresmaldonado200338" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andresmaldonado200338&" alt="andresmaldonado200338" /></p>
