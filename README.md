@@ -1,37 +1,149 @@
-<h1 align="center">Hi there 👋, I'm Andrés!</h1>
-<h3 align="center">A passionate Colombian developer.</h3>
+<div align="center">
+  
+# :computer: Andrés Maldonado
 
-<h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/amaldonados" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/AndresMaldonado200338" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
+`Backend Developer` | `Computer Systems Engineer` | `Cibersecurity Enthusiast` 
 
-<h3 align="left">About me:</h3>
+## :link: Links
+[![Github](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/AndresMaldonado200338)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amaldonados/)
 
-I am a person passionate about technology, programming and cybersecurity, I consider myself capable of learning new technologies to test my capabilities and to strengthen my skills. 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=AndresMaldonado200338.AndresMaldonado200338)
 
-I currently have programming skills in languages such as Java (Spring Boot), Python and JavaScript (basic level), in addition to also using HTML, CSS and some SQL. 
+</div>
 
-I am currently studying Computer and Systems Engineering.
+## :file_folder: About me
 
-<h3 align="left">Some Trophies:</h3>
-<table><tr><td valign="top" width="50%">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andresmaldonado200338&label=Profile%20views&color=0e75b6&style=flat" alt="andresmaldonado200338" /> </p>
+> [!IMPORTANT]
+> Systems and Computer Engineering student with 6 months of hands-on experience in project development. Knowledgeable in various programming languages and frameworks. Passionate about cybersecurity and its different fields. Collaborated in project development by applying agile methodologies and creating innovative solutions to meet end-user needs.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andresmaldonado200338" alt="andresmaldonado200338" /></a> </p>
-</td></tr></table> 
+## :clipboard: Technical Strengths
 
-- 🌱 I’m currently learning **Frameworks, SQL, NoSQL Cloud services, DevOps and Machine Learning**
+### Backend development
+- Clean architecture
+- Design Principles
+    - SOLID Principles
+    - YAGNI Principles
+- Design patterns
+    - Singleton Pattern
+    - Factory Pattern
+- Methodologies
+    - Agile Methodologies
+- Frameworks
+    - Kanban
 
-- 💬 Ask me about **Java, Python and JavaScript**
+### Software architectures
+- MVC
+- Client-server
+- Microservices
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### Databases
+- Query Optimization
 
-<h3 align="left">Some stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andresmaldonado200338&show_icons=true&locale=en&layout=compact" alt="andresmaldonado200338" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andresmaldonado200338&show_icons=true&locale=en" alt="andresmaldonado200338" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andresmaldonado200338&" alt="andresmaldonado200338" /></p>
+### DevOps
+- Docker Containerization
+
+### Cybersecurity
+- Risk Management Framework (RMF)
+- OWASP Principles
+- NIST 800-53
+- Cibersecurity Audit
+
+## :hammer_and_wrench: Tech stack
+
+<div align="center">
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### DevOps
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white)
+
+### Development Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+
+</div>
+
+## :mag: My Approaches
+
+### :on: Currently
+- Advanced Design Patterns
+- Ethical hacking
+- Network security
+- Kali Linux
+- Better development practices
+
+### :soon: Future
+- Master in cybersecurity
+- Google certifications
+- Mirosoft certifications
+- TOEFL and JLPT tests
+
+## :checkered_flag: Professional Achievements
+
+### Backend Development
+Participated in the development of an optimized web application, where the dynamic loading of components was efficiently managed using SQL databases, resulting in a significant improvement in load times and overall performance.
+
+Implemented agile methodologies to ensure a more structured and efficient development process, allowing for continuous delivery of value and maintaining high-quality standards in the final product.
+
+Designed and implemented an intuitive administrative panel, providing the client with an autonomous tool to manage and update the system's information, improving operational efficiency.
+
+### Databases
+Participated in the design and construction of the database that would handle the loading of components.
+
+Assisted in optimizing queries to improve the loading speed of components within the system.
+
+### Work Team
+Worked efficiently with the development team, fostering collaboration and ensuring smooth project progress.
+
+Shared ideas and knowledge with the team, contributing to collective problem-solving and enhancing overall team performance.
+
+Contributed during the requirements gathering process and key meetings with the client, ensuring that their needs were well understood and addressed.
+
+## :email: Connect with me
+
+>[!TIP]
+>**Engineering student and backend developer eager to learn and accept new challenges.**
+>
+>**Cybersecurity enthusiast.**
+>
+>[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andresmaldonado200338@gmail.com)
+
+## :bar_chart: Some stats
+
+<div align="center">
+  <table align="center">
+    <tr>
+      <td>
+        <img width="400" src="https://github-readme-stats.vercel.app/api?username=AndresMaldonado200338&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0B1017">
+      </td>
+      <td>
+        <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=AndresMaldonado200338&theme=tokyonight&hide_border=true&background=0B1017">
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  
+<img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresMaldonado200338&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&bg_color=0B1017">
+
+</div>
+
+<div align="center">
+  
+  ![](https://komarev.com/ghpvc/?username=andresmaldonado200338&label=Profile%20views&color=0B1017&style=flat)
+  ![](https://img.shields.io/github/followers/AndresMaldonado200338?style=flat&color=0B1017)
+  
+</div>
